@@ -12,5 +12,3 @@ Semantic segmentation is a computer vision task where the goal is to classify ea
  
  Semantic Segmentation: https://youtu.be/aNAZxV8yQHM?feature=shared
  
- For queries contact: Yash Jonjale (9137088561) 
- Tanmay Gejapati (9632672825)
