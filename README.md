@@ -6,9 +6,7 @@ Semantic segmentation is a computer vision task where the goal is to classify ea
  Our project will revolve around Brain Image Segmentation or Microscope Image Segmentation depending on the interests of the mentees. This will be a intermediate+ level project. We expect decent programming skills and familiarity with implementing basic machine learning models like Neural Networks. We will discuss the projects in slack. 
 
 
- resources for refreshers
- Videos on Transformers (3b1b ðŸ™‚): https://youtu.be/wjZofJX0v4M?feature=shared
- https://youtu.be/eMlx5fFNoYc?feature=shared
  
- Semantic Segmentation: https://youtu.be/aNAZxV8yQHM?feature=shared
+ Resources here:-
+ https://docs.google.com/document/d/1HrLO_LWsp6p8-wUroQXo-jNs9REaBmK4gGKfDwduCjo/edit
  
